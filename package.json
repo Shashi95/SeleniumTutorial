@@ -1,0 +1,20 @@
+{
+  "name": "vs-code",
+  "version": "1.0.0",
+  "description": "Learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --timeouts=10000"
+  },
+  "author": "shashi",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^8.1.2",
+    "chromedriver": "^100.0.0",
+    "data-driven": "^1.4.0",
+    "geckodriver": "^3.0.1",
+    "mocha": "^10.0.0",
+    "ms-chromium-edge-driver": "^0.5.1",
+    "selenium-webdriver": "^4.1.1"
+  }
+}
